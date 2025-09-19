@@ -5,7 +5,6 @@ import arrow from "@/assets/arrow.png";
 import black_white from "@/assets/black&&white.webp";
 import Linkedin_shot from "@/assets/linkedinshot.webp";
 import street from "@/assets/street.webp";
-import street from "@/assets/street.webp";
 
 const Banner = () => {
   return (
